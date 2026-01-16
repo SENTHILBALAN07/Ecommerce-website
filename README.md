@@ -44,7 +44,7 @@ npm install
 
 ### Start the frontend server  
 ```bash
-npm start
+npm run dev
 ```
 
 Frontend default URL:  
