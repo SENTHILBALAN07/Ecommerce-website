@@ -63,7 +63,7 @@ http://localhost:3000
 
 ## 5. Build for Production  
 
-### Backend build (if applicable)  
+### Backend build 
 ```bash
 cd ecommerce-backend
 npm run build
